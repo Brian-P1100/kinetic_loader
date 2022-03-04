@@ -1,0 +1,1 @@
+Day 23 of 50 days of 50 projects. I created a simple loader with css and learned a little more about keyframes.
